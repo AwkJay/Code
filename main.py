@@ -1,6 +1,6 @@
-mydict = {"first":"bhN",
+mydict = {"first":"bh",
    "second":"k",
-   "third":"cHt"
+   "third":"C"
    }
 '''
 print(mydict)
